@@ -2,7 +2,7 @@
 
 An economist's look at information, beliefs and learning, and their relevance for economics and finance.
 
-Here you will find an overview of my published work (TBC)
+Here you will find an overview of my work (TBC)
 
 ### My publications
 
