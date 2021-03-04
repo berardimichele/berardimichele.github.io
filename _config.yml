@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Welcome to Michele Berardi's page
 github:
-  repository_url:
+  is_project_page: false
