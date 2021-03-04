@@ -10,8 +10,8 @@ Here you will find an overview of my work (TBC)
 2. tbc
 3. 
 
-**Bold** and _Italic_ and `Code` text
+[My google webpage] (https://sites.google.com/site/micheleberardi/)
 
-[Link](url) and ![Image](src)
-```
+**Bold** and _Italic_ and `Code` text
+![Image](src)
 
