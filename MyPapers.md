@@ -1,7 +1,7 @@
 ### My publications
 
 1. Berardi, Michele. Discrete beliefs space and equilibrium: a cautionary note. Journal of Evolutionary Economics, forthcoming.
-2. Berardi, Michele. Learning from prices: information aggregation and accumulation in an asset market. Annals of Finance 17 (2021), 45-77. [Link to paper](https://link.springer.com/article/10.1007/s10436-020-00378-w) [Overview](AoF2021)
+2. Berardi, Michele. Learning from prices: information aggregation and accumulation in an asset market. Annals of Finance 17 (2021), 45-77. [Link to paper.](https://link.springer.com/article/10.1007/s10436-020-00378-w) [Overview.](AoF2021)
 3. Berardi, Michele. A probabilistic interpretation of the constant gain learning algorithm. Bulletin of Economic Research 72 (2020), 393-403.
 4. Berardi, Michele and Galimberti Jaqueson K. Smoothing-based initialization for learning-to-forecast algorithms. Macroeconomic Dynamics 23 (2019), 1008-1023.
 5. Berardi, Michele and Galimberti, Jaqueson K. Empirical calibration of adaptive learning. Journal of Economic Behavior and Organization 144 (2017), 219-237.
