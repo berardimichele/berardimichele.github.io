@@ -3,6 +3,8 @@ _An economist's look at information, beliefs and learning, and their relevance f
 
 ## My work
 
+[My google page](https://sites.google.com/site/micheleberardi/)
+
 <a href="https://sites.google.com/site/micheleberardi/" title="My google webpage">My google webpage</a>
 
 [MyPapers](MyPapers)
