@@ -1,7 +1,8 @@
 
 _An economist's look at information, beliefs and learning, and their relevance for economics and finance._
 
-<img src="me_whiteboard_11" width="200">
+![Image](me_whiteboard_11.jpg =100x20)
+
 
 [My google page](https://sites.google.com/site/micheleberardi/)
 
